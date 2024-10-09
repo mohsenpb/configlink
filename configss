@@ -3,10 +3,7 @@
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 //support-url: https://t.me/hiddify
 //profile-web-page-url: https://hiddify.com
-warp://License@IP:port?ifp=s1-s2&ifps=s1-s2&ifpd=d1-d2&ifpm=mode
-warp://auto
 warp://162.159.195.241?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4 Test2
-warp://previous_config&&detour=warp://auto
 warp://162.159.192.236?ifp=10-20&ifps=40-100&ifpd=10-20 Warp_10-20_40-100_10-20
 warp://162.159.192.236?ifp=10-20&ifps=40-100&ifpd=30-200 Warp_10-20_40-100_30-50
 warp:/162.159.192.236?ifp=10-20&ifps=40-100&ifpd=300-500 Warp_10-20_40-100_300-500
@@ -35,6 +32,5 @@ warp://162.159.192.182:955?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4&&detour=warp://
 warp://162.159.192.182:955?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4&&detour=warp://auto
 warp://162.159.192.236:955?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4&&detour=warp://auto
 warp://188.114.99.12:955?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4&&detour=warp://auto
-warp://p1@IP:port?ifp=s1-s2&ifps=s1-s2&ifpd=d1-d2&ifpm=mode
-warp://p2@IP:port?ifp=s1-s2&ifps=s1-s2&ifpd=d1-d2&ifpm=mode
+
 
